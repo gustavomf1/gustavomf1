@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gustavomf1 😁
+## Welcome to Gustavo's profile!! :)
 
  <div>
   <a href="https://github.com/gustavomf1">
