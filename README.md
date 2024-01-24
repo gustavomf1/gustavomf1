@@ -25,4 +25,4 @@ Sou Gustavo Martins França, estudante de tecnologia em busca de oportunidades n
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavomf1&show_icons=true)
