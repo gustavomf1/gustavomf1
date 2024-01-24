@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Gustavo Martins França!
 
-Sou Gustavo Martins França, estudante de tecnologia em busca de oportunidades no mercado. Com habilidades sólidas em programação, análise de dados e gestão de projetos, aplico meu conhecimento em projetos práticos, demonstrando paixão por aprendizado contínuo.
+Sou um entusiasta e estudante de tecnologia em busca de oportunidades no mercado. Com habilidades sólidas em programação, análise de dados e gestão de projetos, aplico meu conhecimento em projetos práticos, demonstrando paixão por aprendizado contínuo.
 
 💬 "A ciência é, portanto, uma perversão de si mesma, a menos que tenha como fim último, melhorar a humanidade." - Nikola Tesla
 
