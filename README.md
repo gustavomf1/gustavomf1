@@ -1,6 +1,6 @@
 ## Olá, meu nome é Gustavo Martins França!
 
-Desenvolvedor Backend apaixonado por tecnologia e inovação. Tenho experiência em C# .NET e estou sempre buscando novos desafios para crescer profissionalmente. Adoro trabalhar em projetos que envolvem novas tecnologias e soluções criativas.
+Desenvolvedor .NET apaixonado por tecnologia e inovação. Tenho experiência em C# .NET e estou sempre buscando novos desafios para crescer profissionalmente. Adoro trabalhar em projetos que envolvem novas tecnologias e soluções criativas.
 
 💬 "A ciência é, portanto, uma perversão de si mesma, a menos que tenha como fim último, melhorar a humanidade." - Nikola Tesla
 
