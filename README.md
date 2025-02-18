@@ -1,8 +1,6 @@
-## Olá, meu nome é Gustavo Martins França!
+## Hello, my name is Gustavo Martins França!
 
-Desenvolvedor de Software apaixonado por tecnologia e inovação. Tenho experiência em Java e SpringBoot e estou sempre buscando novos desafios para crescer profissionalmente. Adoro trabalhar em projetos que envolvem novas tecnologias e soluções criativas.
-
-💬 "A ciência é, portanto, uma perversão de si mesma, a menos que tenha como fim último, melhorar a humanidade." - Nikola Tesla
+I'm a Software Developer passionate about technology and innovation. I have experience in Java and Spring Boot, and I'm always looking for new challenges to grow professionally. I love working on projects that involve new technologies and creative solutions.
 
 ---
 
