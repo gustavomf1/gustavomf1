@@ -1,83 +1,98 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gustavo%20Martins%20França&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20·%20Java%20·%20Spring%20Boot%20·%20Quarkus&descAlignY=55&descSize=20"/>
+
 <div align="center">
-  <h1>👋 Olá, sou Gustavo Martins França!</h1>
-  <h3>Software Engineer · Java · Spring Boot · Quarkus</h3>
 
-  <p>
-    Desenvolvedor backend com foco em construção de sistemas SaaS do zero — APIs RESTful robustas,
-    autenticação e autorização com <b>Spring Security + JWT</b>, arquitetura multi-tenant e
-    fluxos de workflow complexos. Gosto de código limpo, boas práticas e sistemas que funcionam em produção.
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Construindo+sistemas+SaaS+do+zero+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Quarkus;APIs+RESTful+%7C+Spring+Security+%7C+JWT;Clean+Code+%7C+RBAC+%7C+Event-Driven" alt="Typing SVG" />
 
-  <a href="https://www.linkedin.com/in/gustavo-martins-frança/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gustavincraft03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<br/>
 
-<br />
+<a href="https://www.linkedin.com/in/gustavo-martins-frança/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:gustavincraft03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=gustavomf1&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
-## 🛠️ Tech Stack
-
-### ☕ Backend — foco principal
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-</div>
-
-### 🗄️ Banco de Dados & Migrations
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
-</div>
-
-### 🌐 Frontend & Mobile
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</div>
-
-### ⚙️ Infra & Ferramentas
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
 </div>
 
 ---
 
-## 🚀 O que construo
+## 👨‍💻 Sobre mim
 
+```java
+public class Gustavo extends SoftwareEngineer {
+
+    String foco      = "Backend Java · Spring Boot · Quarkus";
+    String diferencial = "Construo sistemas SaaS do zero — do banco ao mobile";
+    String localizacao = "Pirapozinho, SP — Brasil 🇧🇷";
+
+    String[] interesses = {
+        "Arquitetura limpa e boas práticas",
+        "Event-driven com @Async + Kafka",
+        "RBAC e Spring Security",
+        "APIs RESTful de alta qualidade"
+    };
+}
 ```
-✅ APIs RESTful com Spring Boot e Quarkus
-✅ Autenticação/autorização com Spring Security + JWT + RBAC
-✅ Sistemas SaaS multi-tenant com fluxos de workflow complexos
-✅ Notificações assíncronas com @Async + @TransactionalEventListener
-✅ Migrations versionadas com Flyway
-✅ Integração com Kafka para eventos entre serviços
-✅ Apps mobile com Flutter consumindo APIs REST
-```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ☕ Backend
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,maven&theme=dark" />
+
+### 🗄️ Banco de Dados & Infra
+<img src="https://skillicons.dev/icons?i=postgres,oracle,docker,git,linux&theme=dark" />
+
+### 🌐 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,angular,ts,flutter&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 O que entrego
+
+<div align="center">
+
+| Área | Tecnologia |
+|---|---|
+| 🔐 Autenticação & Autorização | Spring Security · JWT · RBAC multi-role |
+| ⚡ Processamento Assíncrono | `@Async` · `@TransactionalEventListener(AFTER_COMMIT)` |
+| 📨 Mensageria | Apache Kafka · eventos entre serviços |
+| 🗃️ Banco de Dados | PostgreSQL · Oracle · JPA/Hibernate · Flyway |
+| 🏗️ Arquitetura | SaaS multi-tenant · REST APIs · Clean Code |
+| 📱 Mobile | Flutter consumindo APIs REST autenticadas |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavomf1&theme=tokyonight" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavomf1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavomf1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavomf1&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" />
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
-  <i>"Bom software não é o que funciona — é o que continua funcionando."</i>
+  <img src="https://raw.githubusercontent.com/gustavomf1/gustavomf1/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
