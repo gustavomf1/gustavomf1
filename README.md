@@ -72,14 +72,7 @@ public class Gustavo extends SoftwareEngineer {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavomf1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavomf1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<br/>
+## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gustavomf1&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" />
