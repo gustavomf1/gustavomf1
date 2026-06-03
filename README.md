@@ -72,12 +72,6 @@ public class Gustavo extends SoftwareEngineer {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavomf1&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" />
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
